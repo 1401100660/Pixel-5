@@ -1,0 +1,4 @@
+hello='fuck you dude1432@#$%' 
+python serve.py "$hello"
+
+
